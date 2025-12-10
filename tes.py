@@ -1,1 +1,1 @@
-print("hello word!")
+gprint("hello sayang tes")
